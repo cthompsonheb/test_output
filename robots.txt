@@ -1,0 +1,13 @@
+Robots: A Brief Overview
+
+Robots are programmable machines capable of carrying out complex actions automatically. They have transformed industries ranging from manufacturing and logistics to healthcare and space exploration.
+
+Modern robots typically consist of mechanical actuators, sensors, power supplies, and control systems. Many are guided by artificial intelligence, enabling them to perceive their environment, make decisions, and adapt to changing conditions.
+
+Industrial robots excel at repetitive, high-precision tasks such as welding, assembly, and painting on factory floors. Collaborative robots, or "cobots," work alongside humans safely, augmenting human capabilities rather than replacing them entirely.
+
+In medicine, robotic surgery systems like the da Vinci platform allow surgeons to perform minimally invasive procedures with greater precision. Search-and-rescue robots navigate hazardous environments to locate survivors after disasters.
+
+Space exploration has long relied on robots: NASA's Mars rovers have explored the Martian surface for decades, sending back invaluable scientific data. Autonomous drones now survey terrain, monitor crops, and deliver packages.
+
+As robotics and AI continue to advance, robots are becoming increasingly capable, flexible, and affordable — opening new possibilities for how humans live and work.
